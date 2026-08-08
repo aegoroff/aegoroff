@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Alexander Egorov&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 65, Total Commits  (last year) : 3952, Total PRs: 1005, Total Issues: 269, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 65, Total Commits  (last year) : 3960, Total PRs: 1006, Total Issues: 269, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 62.367732195852554;
+        stroke-dashoffset: 62.36771540939886;
       }
     }
   
